@@ -1,0 +1,14 @@
+C:\Users\maher\source\repos\OnlineOrderProcessing\bin\Debug\net8.0\OnlineOrderProcessing.exe
+C:\Users\maher\source\repos\OnlineOrderProcessing\bin\Debug\net8.0\OnlineOrderProcessing.deps.json
+C:\Users\maher\source\repos\OnlineOrderProcessing\bin\Debug\net8.0\OnlineOrderProcessing.runtimeconfig.json
+C:\Users\maher\source\repos\OnlineOrderProcessing\bin\Debug\net8.0\OnlineOrderProcessing.dll
+C:\Users\maher\source\repos\OnlineOrderProcessing\bin\Debug\net8.0\OnlineOrderProcessing.pdb
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\OnlineOrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\OnlineOrderProcessing.AssemblyInfoInputs.cache
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\OnlineOrderProcessing.AssemblyInfo.cs
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\OnlineOrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\OnlineOrderProcessing.dll
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\refint\OnlineOrderProcessing.dll
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\OnlineOrderProcessing.pdb
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\OnlineOrderProcessing.genruntimeconfig.cache
+C:\Users\maher\source\repos\OnlineOrderProcessing\obj\Debug\net8.0\ref\OnlineOrderProcessing.dll
