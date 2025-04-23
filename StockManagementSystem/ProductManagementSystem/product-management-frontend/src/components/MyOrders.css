@@ -1,0 +1,50 @@
+﻿.orders-container {
+    padding: 2rem;
+}
+
+.orders-heading {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.loading-message,
+.error-message,
+.no-orders-message {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.orders-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.order-card {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+    .order-card:hover {
+        transform: scale(1.02);
+        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+
+
+.status {
+    font-weight: bold;
+}
+
+    .status.success {
+        color: green;
+    }
+
+    .status.cancelled {
+        color: red;
+    }

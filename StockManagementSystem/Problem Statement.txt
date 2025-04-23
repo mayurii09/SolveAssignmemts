@@ -1,0 +1,21 @@
+Problem Statement:
+
+Product Stock Management System - Features:
+Product & Order Management
+Event-driven stock updates (RabbitMQ/Kafka)
+Redis caching for fast product retrieval
+Low-stock alerts
+
+Core Features – 
+1. Product Management
+	Retrieve product details 
+	Maintain stock levels(stock quantity)
+2. Order Management
+	Place an order: Stock quantity is checked before confirming
+	Cancel an order: Stock quantity is restored
+	Event-driven notifications on order placement
+3. Event-Driven Stock Updates
+	Order placed → Stock reduced → Event published
+	If stock goes below a threshold → Low stock alert event
+5. Background Tasks
+	Low stock notifications (alerts)

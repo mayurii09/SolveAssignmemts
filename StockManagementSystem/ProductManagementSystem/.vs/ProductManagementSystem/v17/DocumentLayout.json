@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\productmanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:productmanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\product-management-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:product-management-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\product-management-frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:product-management-frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\product-management-frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:product-management-frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\services\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:services\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\services\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:services\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\hubs\\stockhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:hubs\\stockhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\placeorderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\placeorderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\stockeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\stockeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\kafkamessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\kafkamessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\stockevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\stockevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\lowstockalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\lowstockalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:42:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T06:08:03.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagementSystem",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\ProductManagementSystem.csproj",
+              "RelativeDocumentMoniker": "ProductManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\ProductManagementSystem.csproj",
+              "RelativeToolTip": "ProductManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T06:07:56.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "product-management-frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\App.js",
+              "RelativeToolTip": "product-management-frontend\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-23T05:42:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\index.js",
+              "RelativeDocumentMoniker": "product-management-frontend\\src\\index.js",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\index.js",
+              "RelativeToolTip": "product-management-frontend\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-23T05:42:20.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\index.css",
+              "RelativeDocumentMoniker": "product-management-frontend\\src\\index.css",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\index.css",
+              "RelativeToolTip": "product-management-frontend\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T05:42:19.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T04:48:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAGAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:48:45.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\ConsumerService.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ConsumerService.cs",
+              "RelativeToolTip": "Services\\ConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:45:40.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ProducerService.cs",
+              "RelativeToolTip": "Services\\ProducerService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:45:00.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\IProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\IProducerService.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\IProducerService.cs",
+              "RelativeToolTip": "Services\\IProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:43:10.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:42:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StockHub.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Hubs\\StockHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\StockHub.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Hubs\\StockHub.cs",
+              "RelativeToolTip": "Hubs\\StockHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:41:07.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlaceOrderResult.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\PlaceOrderResult.cs",
+              "RelativeDocumentMoniker": "Models\\PlaceOrderResult.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\PlaceOrderResult.cs",
+              "RelativeToolTip": "Models\\PlaceOrderResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:33:04.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockEventType.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\StockEventType.cs",
+              "RelativeDocumentMoniker": "Models\\StockEventType.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\StockEventType.cs",
+              "RelativeToolTip": "Models\\StockEventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:31:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:32:18.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KafkaMessage.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\KafkaMessage.cs",
+              "RelativeDocumentMoniker": "Models\\KafkaMessage.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\KafkaMessage.cs",
+              "RelativeToolTip": "Models\\KafkaMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:31:54.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockEvent.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\StockEvent.cs",
+              "RelativeDocumentMoniker": "Models\\StockEvent.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\StockEvent.cs",
+              "RelativeToolTip": "Models\\StockEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:31:40.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LowStockAlert.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\LowStockAlert.cs",
+              "RelativeDocumentMoniker": "Models\\LowStockAlert.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\LowStockAlert.cs",
+              "RelativeToolTip": "Models\\LowStockAlert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:31:24.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "Models\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\AuthModel.cs",
+              "RelativeToolTip": "Models\\AuthModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:31:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:30:47.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:30:00.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:27:59.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:37:48.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

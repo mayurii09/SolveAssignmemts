@@ -1,0 +1,211 @@
+﻿/* Container that holds the whole page */
+.product-list-container {
+    height: 90vh;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 20px 20px; 
+    box-sizing: border-box;
+    margin-inline-start: 4%;
+    margin-block-start: 4px;
+}
+
+h2{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+/* Search bar */
+.search-bar-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    width: 100%;
+
+}
+
+/* Scrollable area for products */
+.scrollable-products-container {
+    flex: 1;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+/* Grid layout for product cards */
+.product-grid {
+    display: flex;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+/* Individual card */
+.product-card {
+    display: flex;
+    flex: 1 1 calc(50% - 10px);
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    max-width: 270px;
+    min-width: 250px;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+    .product-card:hover {
+        transform: scale(1.02);
+        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+
+/* Button */
+.buy-button {
+    margin-top: 10px;
+    background-color: #28a745;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .buy-button:disabled {
+        background-color: #999;
+        cursor: not-allowed;
+    }
+
+/* Pagination at the bottom */
+.pagination {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.pagination-number,
+.pagination-arrow {
+    cursor: pointer;
+    padding: 5px 10px;
+    color: #007bff;
+}
+
+    .pagination-number.active {
+        font-weight: bold;
+        font-size: 20px;
+        color: black;
+    }
+
+    .pagination-arrow.disabled,
+    .pagination-number.disabled {
+        color: #ccc;
+        pointer-events: none;
+    }
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    min-width: 300px;
+}
+
+.modal-buttons {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.modal-message {
+    margin-top: 10px;
+    color: green;
+    font-weight: bold;
+}
+
+/* filters */
+.filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    padding: 16px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.filter-field {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 150px;
+}
+
+    .filter-field label {
+        margin-bottom: 6px;
+        font-weight: 500;
+        font-size: 14px;
+        color: #333;
+    }
+
+    .filter-field input {
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        font-size: 14px;
+    }
+
+.btn {
+    padding: 1px 30px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    margin-top: 1px;
+    margin-left: 20%;
+    width: 40%;
+    margin-left: 30%;
+}
+
+    .btn:hover {
+        background-color: #0056b3;
+    }
+
+
+.btnBuy {
+    padding: 1px 30px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 25px;
+    margin-left: 20%;
+    width: 60%;
+}
+
+    .btn:hover {
+        background-color: #0056b3;
+    }
