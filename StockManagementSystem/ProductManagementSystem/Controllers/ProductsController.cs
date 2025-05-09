@@ -13,9 +13,9 @@ public class ProductsController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetProducts(string? search, decimal? maxPrice, int? maxStock)
+    public async Task<IActionResult> GetProducts(string? search, decimal? maxPrice)
     {
-        var products = await _productService.GetFilteredProducts(search, maxPrice, maxStock);
+        var products = await _productService.GetFilteredProducts(search, maxPrice);
         return Ok(products);
     }
 

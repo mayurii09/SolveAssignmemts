@@ -15,7 +15,7 @@ namespace ProductManagementSystem.Services
             _context = context;
         }
 
-        public async Task<IEnumerable<Product>> GetFilteredProducts(string? search = null, decimal? maxPrice = null, int? maxStock = null)
+        public async Task<IEnumerable<Product>> GetFilteredProducts(string? search = null, decimal? maxPrice = null)
         {
             var query = _context.Products.AsQueryable();
 
@@ -24,9 +24,6 @@ namespace ProductManagementSystem.Services
 
             if (maxPrice.HasValue)
                 query = query.Where(p => p.Price <= maxPrice.Value);
-
-            if (maxStock.HasValue)
-                query = query.Where(p => p.StockQuantity <= maxStock.Value);
 
             return await query.ToListAsync();
         }

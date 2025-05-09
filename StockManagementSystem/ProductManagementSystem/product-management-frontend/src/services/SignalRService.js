@@ -44,17 +44,17 @@ class SignalRService {
         }
     }
 
-    offStockUpdate(handler) {
-        if (this.connection) {
-            this.connection.off('ReceiveStockUpdate', handler);
-        }
-    }
+    //offStockUpdate(handler) {
+    //    if (this.connection) {
+    //        this.connection.off('ReceiveStockUpdate', handler);
+    //    }
+    //}
 
-    offLowStockAlert(handler) {
-        if (this.connection) {
-            this.connection.off('ReceiveLowStockAlert', handler);
-        }
-    }
+    //offLowStockAlert(handler) {
+    //    if (this.connection) {
+    //        this.connection.off('ReceiveLowStockAlert', handler);
+    //    }
+    //}
 
     sendMessage(message) {
         if (this.connection) {

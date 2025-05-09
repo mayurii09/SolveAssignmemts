@@ -6,7 +6,7 @@ namespace ProductManagementSystem.Services
 {
     public interface IProductService
     {
-        Task<IEnumerable<Product>> GetFilteredProducts(string? search, decimal? maxPrice, int? maxStock);
+        Task<IEnumerable<Product>> GetFilteredProducts(string? search, decimal? maxPrice);
 
     }
 }

@@ -14,10 +14,9 @@ const ProductList = () => {
     const [quantity, setQuantity] = useState(1);
     const [message, setMessage] = useState("");
     const [isPlacingOrder, setIsPlacingOrder] = useState(false);
-
-    const [filters, setFilters] = useState({ name: "", maxPrice: "", maxStock: "" });
+    const [filters, setFilters] = useState({ name: "", maxPrice: ""});
     const [currentPage, setCurrentPage] = useState(1);
-    const productsPerPage = 6;
+    const productsPerPage = 8;
 
     const location = useLocation();
     const navigate = useNavigate();
@@ -84,7 +83,7 @@ const ProductList = () => {
 
 
         subscribeToLowStockAlert((alertData) => {
-            // You can show a toast/alert here or mark product as low stock
+            // We can show a toast/alert here or mark product as low stock
             alert(`Low Stock Alert! Product: ${alertData.productName}, Quantity: ${alertData.stockQuantity}`);
 
             setProducts((prevProducts) =>
@@ -135,8 +134,7 @@ const ProductList = () => {
         const queryParams = new URLSearchParams();
         if (filters.name) queryParams.append("search", filters.name);
         if (filters.maxPrice) queryParams.append("maxPrice", filters.maxPrice);
-        if (filters.maxStock) queryParams.append("maxStock", filters.maxStock);
-
+       
         try {
             const response = await fetch(`http://localhost:5016/api/products?${queryParams.toString()}`, {
                 headers: {
@@ -208,6 +206,7 @@ const ProductList = () => {
             <h1>Welcome {customerName}</h1>
 
             <div className="filter-bar">
+                <div className="filter-fields-container">
                 <div className="filter-field">
                     <label htmlFor="name">Name</label>
                     <input type="text" name="name" placeholder="e.g. Smart" value={filters.name.substring(0, 1).toUpperCase() + filters.name.substring(1).toLowerCase()} onChange={handleFilterChange} />
@@ -217,13 +216,10 @@ const ProductList = () => {
                     <label htmlFor="maxPrice">Max Price</label>
                     <input type="number" name="maxPrice" placeholder="e.g. 1000" value={filters.maxPrice} onChange={handleFilterChange} />
                 </div>
-
-                <div className="filter-field">
-                    <label htmlFor="maxStock">Max Stock</label>
-                    <input type="number" name="maxStock" placeholder="e.g. 10" value={filters.maxStock} onChange={handleFilterChange} />
                 </div>
-
-                <button className="btn" onClick={fetchFilteredProducts}>Apply Filters</button>
+                <div className="button-container">
+                    <button className="btn" onClick={fetchFilteredProducts}>Apply Filters</button>
+                </div>
             </div>
 
             {loading ? (

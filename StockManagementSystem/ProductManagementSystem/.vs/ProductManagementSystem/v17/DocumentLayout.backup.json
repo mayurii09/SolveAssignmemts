@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\product-management-frontend\\src\\components\\productlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:product-management-frontend\\src\\components\\productlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\product-management-frontend\\src\\services\\signalrservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:product-management-frontend\\src\\services\\signalrservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\product-management-frontend\\src\\components\\myorders.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:product-management-frontend\\src\\components\\myorders.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|c:\\users\\maher\\source\\repos\\productmanagementsystem\\services\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074941B8-C9E3-49DD-9656-40B6FE824220}|ProductManagementSystem.csproj|solutionrelative:services\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:37:48.266Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -36,6 +55,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\ConsumerService.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ConsumerService.cs",
+              "RelativeToolTip": "Services\\ConsumerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:14:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:04:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyOrders.js",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\components\\MyOrders.js",
+              "RelativeDocumentMoniker": "product-management-frontend\\src\\components\\MyOrders.js",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\components\\MyOrders.js",
+              "RelativeToolTip": "product-management-frontend\\src\\components\\MyOrders.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-25T10:02:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:01:55.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:31:43.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:30:57.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductList.js",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\components\\ProductList.js",
+              "RelativeDocumentMoniker": "product-management-frontend\\src\\components\\ProductList.js",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\components\\ProductList.js",
+              "RelativeToolTip": "product-management-frontend\\src\\components\\ProductList.js",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-25T07:17:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignalRService.js",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\services\\SignalRService.js",
+              "RelativeDocumentMoniker": "product-management-frontend\\src\\services\\SignalRService.js",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\product-management-frontend\\src\\services\\SignalRService.js",
+              "RelativeToolTip": "product-management-frontend\\src\\services\\SignalRService.js",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-25T07:10:59.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\maher\\source\\repos\\ProductManagementSystem\\Services\\ProducerService.cs",
+              "RelativeToolTip": "Services\\ProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:14:32.975Z",
+              "EditorCaption": ""
             }
           ]
         }

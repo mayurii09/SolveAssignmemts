@@ -13,7 +13,6 @@ using Microsoft.IdentityModel.Protocols.Configuration;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSignalR();
 
-// Add services to the container
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -91,6 +90,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 app.MapHub<StockHub>("/stockHub");
+//app.UseExceptionHandler("/error");
 
 try
 {

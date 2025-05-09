@@ -135,14 +135,5 @@ namespace ProductManagementSystem.Services
             }
         }
 
-
-        public async Task<List<Order>> GetCustomerOrdersAsync(string customerId)
-        {
-            return await _context.Orders
-                .Where(o => o.CustomerId == customerId)
-                .Include(o => o.Product)
-                .ToListAsync();
-        }
-
     }
 }

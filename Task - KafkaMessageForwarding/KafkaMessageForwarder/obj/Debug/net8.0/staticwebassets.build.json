@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GlnWTK+1NTgU4PvekSWVUFW1TM32+OOnxAPDhK8ro9U=",
+  "Source": "KafkaMessageForwarder",
+  "BasePath": "_content/KafkaMessageForwarder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

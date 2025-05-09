@@ -21,7 +21,7 @@ public class ConsumerService : BackgroundService
         {
             GroupId = "product-stock-group",
             BootstrapServers = _config["Kafka:BootstrapServers"],
-            AutoOffsetReset = AutoOffsetReset.Earliest,  // .Earliest  .Latest
+            AutoOffsetReset = AutoOffsetReset.Earliest,  
             EnableAutoCommit = true
         };
 
